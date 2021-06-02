@@ -1,1 +1,1 @@
-A Javascript code that calculates SGPA by takig marks as input
+A Javascript project that calculates SGPA by taking marks as input
